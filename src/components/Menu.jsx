@@ -27,7 +27,7 @@ export default function Menu() {
                 <img className="menu-img" src="/images/bruchetta.jpg" alt="bruchetta"/>
                 <div className="name-price">
                     <p className="item-name">Bruchetta</p>
-                    <p className="item-price">$5.99</p>
+                    <p className="item-price">$05.99</p>
                 </div>
                 <div className="item-desc">
                     <p>Our Bruschetta is made from grilled bread that has 
